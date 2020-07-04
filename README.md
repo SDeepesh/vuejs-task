@@ -1,7 +1,7 @@
-# todo-app
+# Todo App
 
 # Description 
-A simple todo listing app build using Vue.js, Vuex and Vuetify.js. The app can add new data, delete the existing one, filter the lisiting numbers and the task status can be changed by double clicking or tapping on the task.  
+A simple todo listing app built using Vue.js, Vuex and Vuetify.js. The app can add new data, delete the existing one, filter the listing numbers and the task status can be changed by double clicking or tapping on the task.    
 
 ## Project setup
 ```
